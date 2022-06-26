@@ -19,3 +19,9 @@ This is before the skew is added to the X axis just so you can get an idea of ho
 
 You can see now with the the car:hoover style it will give the movement effect to the hard when hooverd over.
 ![Screenshot (86)](https://user-images.githubusercontent.com/99539947/175789558-a6c0350a-043d-4fcb-979d-6dbee0fc6d90.png)
+
+Images before colorful background and resizing is added
+![Screenshot (87)](https://user-images.githubusercontent.com/99539947/175798103-a349f053-2faf-47ef-a42d-20127637c9d7.png)
+
+Images after the color and rest of style is added to the image
+![Screenshot (88)](https://user-images.githubusercontent.com/99539947/175798105-683f8011-2bff-4c7c-8dc9-c89f293e4c0c.png)
