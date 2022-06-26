@@ -215,5 +215,23 @@ html {
     opacity: 0.5;
  }
 
+ .food-name {
+    position: absolute;
+    top: 3rem;
+    left: 3rem;
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    color: #fff;
+    width: 0;
+    overflow: hidden;
+    transition: width 0.3s;
+}
+
+.gallery-link:hover .food-name {
+    width: 100%;
+    transition: width 1.5s 0.5s;
+}
 
 /* End Section 3 */
