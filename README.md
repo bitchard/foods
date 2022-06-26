@@ -25,3 +25,6 @@ Images before colorful background and resizing is added
 
 Images after the color and rest of style is added to the image
 ![Screenshot (88)](https://user-images.githubusercontent.com/99539947/175798105-683f8011-2bff-4c7c-8dc9-c89f293e4c0c.png)
+
+Added the style so when image is hovered over its going to blur some but where you can still see image thru it but it will give room for the text to appear on top of the image and just give it a nice effect.
+![Screenshot (89)](https://user-images.githubusercontent.com/99539947/175798290-591bfbc3-525c-4a7b-93c6-87bc2d14335f.png)
