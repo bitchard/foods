@@ -28,3 +28,6 @@ Images after the color and rest of style is added to the image
 
 Added the style so when image is hovered over its going to blur some but where you can still see image thru it but it will give room for the text to appear on top of the image and just give it a nice effect.
 ![Screenshot (89)](https://user-images.githubusercontent.com/99539947/175798290-591bfbc3-525c-4a7b-93c6-87bc2d14335f.png)
+
+Added an animation for the user for the name of the food when hovered over the name will make a smooth transition in and out.
+![Screenshot (90)](https://user-images.githubusercontent.com/99539947/175804371-99fc9034-27c1-4018-9d5f-a1b52cdbbcd1.png)
