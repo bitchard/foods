@@ -16,7 +16,6 @@ Added the style to one side of the card so it we can give it the 3d transition
 This is before the skew is added to the X axis just so you can get an idea of how much of a difference one single line of style can make.
 ![Screenshot (85)](https://user-images.githubusercontent.com/99539947/175787528-3718554e-2ca6-4b8a-b529-7b4d622c5bc2.png)
 
-
 You can see now with the the car:hoover style it will give the movement effect to the hard when hooverd over.
 ![Screenshot (86)](https://user-images.githubusercontent.com/99539947/175789558-a6c0350a-043d-4fcb-979d-6dbee0fc6d90.png)
 
@@ -31,3 +30,7 @@ Added the style so when image is hovered over its going to blur some but where y
 
 Added an animation for the user for the name of the food when hovered over the name will make a smooth transition in and out.
 ![Screenshot (90)](https://user-images.githubusercontent.com/99539947/175804371-99fc9034-27c1-4018-9d5f-a1b52cdbbcd1.png)
+
+Last and final section. Footer
+![Screenshot (92)](https://user-images.githubusercontent.com/99539947/175813859-bd93936d-404f-457b-bb75-e875cfdaf746.png)
+
